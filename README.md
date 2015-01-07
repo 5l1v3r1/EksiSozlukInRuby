@@ -13,7 +13,6 @@ Ubuntu için<br>
   <b> $ [sudo] gem install nokogiri<br></b>
 Windowsta direk<br>
  <b> gem install nokogiri</b><br>
-  <b>gem install text-table</b><br>
   Daha sonra betiğin bulunduğu dizine gelerek<br>
   
  <b> $ ruby sozluk.rb </b>   <br>
