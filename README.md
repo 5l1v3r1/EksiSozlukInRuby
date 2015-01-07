@@ -11,7 +11,6 @@ Betiği çalıştırabilmek için sisteminizde nokogiri ve text-table GEM'leri k
 Bu GEM'leri aşağıdaki şekilde kurabilirsiniz;<br>
 Ubuntu için<br>
   <b> $ [sudo] gem install nokogiri<br></b>
-  <b>$ [sudo] gem install text-table<br></b>
 Windowsta direk<br>
  <b> gem install nokogiri</b><br>
   <b>gem install text-table</b><br>
