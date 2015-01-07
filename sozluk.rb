@@ -39,8 +39,9 @@ end
 def main
 
 sozluk = Sozluk.new
+
 sozluk.get_response
 
 end
 
-main
+main # asil islerin atesleyecek yeri seciyoruz
