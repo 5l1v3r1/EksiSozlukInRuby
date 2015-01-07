@@ -44,4 +44,4 @@ sozluk.get_response
 
 end
 
-main # asil islerin atesleyecek yeri seciyoruz
+main # asil islerin atesleyecek  yeri seciyoruz
